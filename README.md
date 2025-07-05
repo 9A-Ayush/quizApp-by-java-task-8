@@ -44,6 +44,6 @@ To practice control flow, logic building, and Java collections by creating an in
 ## My Links
 - GitHub: [Your GitHub](https://github.com/9A-Ayush)
 - LinkedIn: [Your LinkedIn](https://linkedin.openinapp.co/has9l)
--X: [Your X](https://x.com/ayush_bhai4590)
+- X: [Your X](https://x.com/ayush_bhai4590)
 ## Outcome
 Hands-on experience with reusable classes, user input, collections, and logic building in Java.
