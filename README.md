@@ -39,11 +39,11 @@ To practice control flow, logic building, and Java collections by creating an in
 - Instant feedback (Correct/Wrong)
 
 ## Screenshot
-![Quiz Screenshot](./2b468365-908f-4ad2-b493-5e5ddb12e1e1.png)
+![Quiz Screenshot](https://github.com/9A-Ayush/quizApp-by-java-task-8/blob/main/Screenshot%202025-07-05%20101236.png)
 
 ## My Links
-- GitHub: [Your GitHub](https://github.com/YourUsername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-
+- GitHub: [Your GitHub](https://github.com/9A-Ayush)
+- LinkedIn: [Your LinkedIn](https://linkedin.openinapp.co/has9l)
+-X: [Your X](https://x.com/ayush_bhai4590)
 ## Outcome
 Hands-on experience with reusable classes, user input, collections, and logic building in Java.
